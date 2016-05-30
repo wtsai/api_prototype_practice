@@ -1,0 +1,15 @@
+{
+  "name": "API_Prototype",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A quick way to create a electron system.",
+  "keywords": [
+    "Practice"
+  ],
+  "author": "Mandice Contributors",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-router": "^5.4.0"
+  }
+}
