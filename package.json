@@ -2,11 +2,14 @@
   "name": "API_Prototype",
   "version": "0.0.0",
   "private": true,
-  "description": "A quick way to create a electron system.",
+  "description": "A quick way to create a blog system.",
   "keywords": [
-    "Practice"
+    "Practice", "blog", "API"
   ],
-  "author": "Mandice Contributors",
+  "author": {
+    "name": "Wesley Tsai",
+    "email": "Wesley_Tsai@wistron.com"
+  },
   "license": "MIT",
   "dependencies": {
     "koa": "^1.2.0",
